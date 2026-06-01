@@ -1,1 +1,7 @@
 streamlit==1.26.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+tabulate>=0.9.0
+mammoth>=1.6.0
+python-pptx>=0.6.21
+pymupdf>=1.24.0
